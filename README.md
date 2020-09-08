@@ -8,6 +8,8 @@ A collection of links and tools that aid in Microsoft Cloud Offensive Security s
 
 [MicroBurst](https://github.com/NetSPI/MicroBurst) - NetSPI
 
+[RoadTools](https://github.com/dirkjanm/ROADtools) - @dirkjanm
+
 [PowerZure](https://github.com/hausec/PowerZure) - Ryan Hausknecht (@haus3c)
 
 ## Azure <-> On-prem 
