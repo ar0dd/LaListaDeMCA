@@ -16,7 +16,7 @@ A collection of links and tools that aid in Microsoft Cloud Offensive Security s
 [SkyArk](https://github.com/cyberark/SkyArk) - CyberArk 
 
 ## Privilege Escalation
-[Dynamic groups](https://www.mnemonic.no/blog/abusing-dynamic-groups-in-azure/) - Cody Burkard, Senior Security Consultant, mnemonic]
+[Azure Dynamic groups](https://www.mnemonic.no/blog/abusing-dynamic-groups-in-azure/) - Cody Burkard, Senior Security Consultant, mnemonic]
 
 
 
