@@ -2,6 +2,7 @@
 A collection of links and tools that aid in Microsoft Cloud Offensive Security services. If you want to contribute to this list send me a pull request.
 
 ## All-in-One Tools
+
 [MicroBurst](https://github.com/NetSPI/MicroBurst) - NetSPI
 
 [PowerZure](https://github.com/hausec/PowerZure) - Ryan Hausknecht (@haus3c)
@@ -16,8 +17,11 @@ A collection of links and tools that aid in Microsoft Cloud Offensive Security s
 [SkyArk](https://github.com/cyberark/SkyArk) - CyberArk 
 
 ## Privilege Escalation
+
 [Azure Dynamic groups](https://www.mnemonic.no/blog/abusing-dynamic-groups-in-azure/) - Cody Burkard, Senior Security Consultant, mnemonic]
 
 
+## Persistence
 
+[Persistence via Automation Accounts](https://blog.netspi.com/maintaining-azure-persistence-via-automation-accounts/) - Karl Fosaaen
 
