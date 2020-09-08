@@ -3,6 +3,7 @@ A collection of links and tools that aid in Microsoft Cloud Offensive Security s
 
 ## All-in-One Tools
 [MicroBurst](https://github.com/NetSPI/MicroBurst) - NetSPI
+
 [PowerZure](https://github.com/hausec/PowerZure) - Ryan Hausknecht (@haus3c)
 
 ## Azure <-> On-prem 
@@ -11,6 +12,7 @@ A collection of links and tools that aid in Microsoft Cloud Offensive Security s
 ## Enumeration
 
 [Stormspotter](https://github.com/Azure/Stormspotter) - Azure Red Team
+
 [SkyArk](https://github.com/cyberark/SkyArk) - CyberArk 
 
 ## Privilege Escalation
