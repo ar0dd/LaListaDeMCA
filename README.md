@@ -1,6 +1,9 @@
 # AzureAbuse
 A collection of links and tools that aid in Microsoft Cloud Offensive Security services. If you want to contribute to this list send me a pull request.
 
+## Getting Started Links
+[Intro for "Red Teamers"](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html) - Aymeric Palhière
+
 ## All-in-One Tools
 
 [MicroBurst](https://github.com/NetSPI/MicroBurst) - NetSPI
