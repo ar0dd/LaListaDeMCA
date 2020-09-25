@@ -21,6 +21,11 @@ A collection of links and tools that aid in Microsoft Cloud Offensive Security s
 
 [SkyArk](https://github.com/cyberark/SkyArk) - CyberArk 
 
+[o365enum](https://github.com/gremwell/o365enum) - @remwell 
+
+## Password Spraying
+[MSOLSpray](https://github.com/MartinIngesen/MSOLSpray) - @Dafthack(PowerShell Implementation) & @MartinIngesen(Python Implementation)
+
 ## Privilege Escalation
 
 [Azure Dynamic groups](https://www.mnemonic.no/blog/abusing-dynamic-groups-in-azure/) - Cody Burkard, Senior Security Consultant, mnemonic]
