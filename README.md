@@ -12,8 +12,9 @@ A collection of links and tools that aid in Microsoft Cloud Offensive Security s
 
 [PowerZure](https://github.com/hausec/PowerZure) - Ryan Hausknecht (@haus3c)
 
-## Azure <-> On-prem 
+## Azure <-> "On-prem"
 [Azure AD Connect](https://blog.xpnsec.com/azuread-connect-for-redteam/) - Adam Chester (@xpnsec)
+[Abusing Azure AD SSO](https://https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/) - @dirkjanm
 
 ## Enumeration
 
