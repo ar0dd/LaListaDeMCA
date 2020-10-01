@@ -15,7 +15,7 @@ A collection of links and tools that aid in Microsoft Cloud Offensive Security s
 ## Azure <-> "On-prem"
 [Azure AD Connect](https://blog.xpnsec.com/azuread-connect-for-redteam/) - Adam Chester (@xpnsec)
 
-[Abusing Azure AD SSO](https://https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/) - @dirkjanm
+[Abusing Azure AD SSO](https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/) - @dirkjanm
 
 ## Enumeration
 
