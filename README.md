@@ -4,6 +4,9 @@ A collection of links and tools that aid in Microsoft Cloud Offensive Security s
 ## Getting Started Links
 [Intro for "Red Teamers"](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html) - Aymeric Palhière
 
+## Phishing Frameworks
+[Evilginx2](https://github.com/kgretzky/evilginx2) - @kgretzky
+
 ## All-in-One Tools
 
 [MicroBurst](https://github.com/NetSPI/MicroBurst) - NetSPI
