@@ -1,5 +1,6 @@
 # La lista de Microsoft Cloud Abuse (MCA)
-A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. If you want to contribute to this list send me a pull request.
+A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. Contributions are welcome!
+
 
 ## Getting Started Links
 [Intro for "Red Teamers"](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html) - Aymeric Palhière
