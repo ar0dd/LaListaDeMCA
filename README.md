@@ -35,6 +35,7 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 
 [Azure Dynamic groups](https://www.mnemonic.no/blog/abusing-dynamic-groups-in-azure/) - Cody Burkard, Senior Security Consultant, mnemonic]
 
+[Reseting Passwords?](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference#password-reset-permissions) - Bloodhound Gang 
 
 ## Persistence
 
