@@ -25,6 +25,8 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 
 [Stormspotter](https://github.com/Azure/Stormspotter) - Azure Red Team
 
+[Azurehound](https://bloodhound.readthedocs.io/en/latest/data-collection/azurehound.html) - Bloodhound Folks
+
 [SkyArk](https://github.com/cyberark/SkyArk) - CyberArk 
 
 [o365enum](https://github.com/gremwell/o365enum) - @remwell 
