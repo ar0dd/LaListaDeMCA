@@ -21,7 +21,7 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 
 [Abusing Azure AD SSO](https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/) - @dirkjanm
 
-## Enumeration
+## Enumeration (unauth and auth)
 
 [Stormspotter](https://github.com/Azure/Stormspotter) - Azure Red Team
 
@@ -30,6 +30,8 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 [SkyArk](https://github.com/cyberark/SkyArk) - CyberArk 
 
 [o365enum](https://github.com/gremwell/o365enum) - @remwell 
+
+[MFASweep](https://github.com/dafthack/MFASweep) - @dafthack
 
 ## Password Spraying
 [MSOLSpray](https://github.com/MartinIngesen/MSOLSpray) - @Dafthack(PowerShell Implementation) & @MartinIngesen(Python Implementation)
