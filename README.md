@@ -53,3 +53,5 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 [Azure Policy Initiatives](https://github.com/salesforce/cloud-guardrails#cloud-guardrails) - Salesforce 
 
 [Multi-Cloud Security Auditing Tool](https://github.com/nccgroup/ScoutSuite) - NCC Group
+
+[Azure Auditing via PowerShell](https://github.com/nccgroup/azucar/) - NCC Group
