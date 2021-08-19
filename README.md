@@ -55,3 +55,5 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 [Multi-Cloud Security Auditing Tool](https://github.com/nccgroup/ScoutSuite) - NCC Group
 
 [Azure Auditing via PowerShell](https://github.com/nccgroup/azucar/) - NCC Group
+
+[Assess Azure Security Controls](https://cloud-katana.com/intro.html) - Azure @Cyb3rWard0g
