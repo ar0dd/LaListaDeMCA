@@ -17,6 +17,9 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 [PowerZure](https://github.com/hausec/PowerZure) - Ryan Hausknecht (@haus3c)
 
 ## Azure <-> "On-prem"
+
+[Hybrid Security Talk  RSA 2021](https://www.youtube.com/watch?v=GILkob8XZ6E) - Mandiant Team
+
 [Azure AD Connect](https://blog.xpnsec.com/azuread-connect-for-redteam/) - Adam Chester (@xpnsec)
 
 [Abusing Azure AD SSO](https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/) - @dirkjanm
