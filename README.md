@@ -24,6 +24,8 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 
 [Abusing Azure AD SSO](https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/) - @dirkjanm
 
+[Requesting Azure AD Request Tokens on Azure-AD-joined Machines for Browser SSO](https://posts.specterops.io/requesting-azure-ad-request-tokens-on-azure-ad-joined-machines-for-browser-sso-2b0409caad30) - @tifkin_
+
 ## Enumeration (unauth and auth)
 
 [Stormspotter](https://github.com/Azure/Stormspotter) - Azure Red Team
