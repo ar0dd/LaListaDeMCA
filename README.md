@@ -16,7 +16,7 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 
 [PowerZure](https://github.com/hausec/PowerZure) - Ryan Hausknecht (@haus3c)
 
-## Azure <-> "On-prem"
+## Azure <-> Devices or On-Prem AD
 
 [Hybrid Security Talk  RSA 2021](https://www.youtube.com/watch?v=GILkob8XZ6E) - Mandiant Team
 
@@ -25,6 +25,8 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 [Abusing Azure AD SSO](https://dirkjanm.io/abusing-azure-ad-sso-with-the-primary-refresh-token/) - @dirkjanm
 
 [Requesting Azure AD Request Tokens on Azure-AD-joined Machines for Browser SSO](https://posts.specterops.io/requesting-azure-ad-request-tokens-on-azure-ad-joined-machines-for-browser-sso-2b0409caad30) - @tifkin_
+
+[Extracting Primary Refresh Token for later use](https://dirkjanm.io/digging-further-into-the-primary-refresh-token/) - @dirkjan/@gentilkiwi (UPDATE: THIS WAS PATCHED)
 
 ## Enumeration (unauth and auth)
 
