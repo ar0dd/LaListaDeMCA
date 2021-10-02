@@ -8,6 +8,8 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 ## Phishing Frameworks
 [Evilginx2](https://github.com/kgretzky/evilginx2) - @kgretzky
 
+[Phish using Azure Enterprise App](https://github.com/AlteredSecurity/365-Stealer) - AlteredSecurity
+
 ## All-in-One Tools
 
 [MicroBurst](https://github.com/NetSPI/MicroBurst) - NetSPI
