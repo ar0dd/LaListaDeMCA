@@ -28,7 +28,7 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 
 [Requesting Azure AD Request Tokens on Azure-AD-joined Machines for Browser SSO](https://posts.specterops.io/requesting-azure-ad-request-tokens-on-azure-ad-joined-machines-for-browser-sso-2b0409caad30) - @tifkin_
 
-(PATCHED) [Extracting Primary Refresh Token for later use](https://dirkjanm.io/digging-further-into-the-primary-refresh-token/) - @dirkjan/@gentilkiwi 
+(PATCHED?) [Extracting Primary Refresh Token for later use](https://dirkjanm.io/digging-further-into-the-primary-refresh-token/) - @dirkjan/@gentilkiwi 
 
 ## Enumeration (unauth and auth)
 
