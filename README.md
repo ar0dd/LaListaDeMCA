@@ -51,6 +51,8 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 
 [Reseting Passwords?](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference#password-reset-permissions) - Bloodhound Gang 
 
+[Azure Privilege Escalation via Service Principal Abuse](https://posts.specterops.io/azure-privilege-escalation-via-service-principal-abuse-210ae2be2a5) - @wald0
+
 ## Persistence
 
 [Persistence via Automation Accounts](https://blog.netspi.com/maintaining-azure-persistence-via-automation-accounts/) - Karl Fosaaen
