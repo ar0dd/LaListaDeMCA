@@ -70,7 +70,7 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 [Assess Azure Security Controls](https://cloud-katana.com/intro.html) - Azure @Cyb3rWard0g
 
 <details>
-<summary>Cool Resources</summary>
+<summary>*** Cool Resources***</summary>
 <br>
 - https://syfuhs.net/how-azure-ad-kerberos-works
 </details>
