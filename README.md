@@ -55,6 +55,8 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 
 ## Persistence
 
+[Azure Policy Guest Configuration](https://cloudbrothers.info/en/azure-persistence-azure-policy-guest-configuration/) - Fabian Bader
+
 [Persistence via Automation Accounts](https://blog.netspi.com/maintaining-azure-persistence-via-automation-accounts/) - Karl Fosaaen
 
 [Persistence via Desired State Configuration](https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-persistence-with-desired-state-configurations/) - Jake Karnes
