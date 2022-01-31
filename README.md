@@ -1,10 +1,12 @@
 # La lista de Microsoft Cloud Abuse (MCA)
 A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. Contributions are welcome!
 
-- Disclaimer: affiliate link. If you're really looking to tailor your security journey into Azure, I highly recommend the **first** book on the topic by some of the best. [Penetration Testing Azure for Ethical Hackers](https://amzn.to/3gcolQA). 
+- Disclaimer: affiliate link. If you're really looking to tailor your security journey into Azure, I highly recommend the **first** book on the topic by some of the best. [Penetration Testing Azure for Ethical Hackers](https://amzn.to/3gcolQA). - Karl Fosaaen & David Okeyode
 
 ## Getting Started Links
 [Intro for "Red Teamers"](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html) - Aymeric Palhière
+
+[Check out all of David Okeyode Blog posts :)](https://davidokeyode.medium.com/) - David Okeyode
 
 ## Phishing Frameworks
 [Evilginx2](https://github.com/kgretzky/evilginx2) - @kgretzky
