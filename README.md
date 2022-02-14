@@ -66,6 +66,10 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 
 [Persistence via Desired State Configuration](https://www.netspi.com/blog/technical/cloud-penetration-testing/azure-persistence-with-desired-state-configurations/) - Jake Karnes
 
+## Can't quite find a place for it
+
+[10 ways of gaining control over Azure function Apps](10 ways of gaining control over Azure function Apps) - Bill Ben Haim & Zur Ulianitzky 
+
 ## Defenders!
 
 [Azure Policy Initiatives](https://github.com/salesforce/cloud-guardrails#cloud-guardrails) - Salesforce 
