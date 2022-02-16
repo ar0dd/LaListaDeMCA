@@ -8,6 +8,8 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 
 [Check out all of David Okeyode Blog posts :)](https://davidokeyode.medium.com/) - David Okeyode
 
+[Anything here is a must](https://o365blog.com/) - @DrAzureAD
+
 ## Phishing Frameworks
 [Evilginx2](https://github.com/kgretzky/evilginx2) - @kgretzky
 
