@@ -47,6 +47,8 @@ A collection of links/tools that aid in Microsoft Cloud recon/exploitation/etc. 
 
 [MFASweep](https://github.com/dafthack/MFASweep) - @dafthack
 
+[Vajra](https://github.com/TROUBLE-1/Vajra) - @TROUBLE-1
+
 ## Password Spraying
 [MSOLSpray](https://github.com/MartinIngesen/MSOLSpray) - @Dafthack(PowerShell Implementation) & @MartinIngesen(Python Implementation)
 
